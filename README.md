@@ -34,13 +34,13 @@
 
 ### 영상
 
-[우아한테크코스 테코톡](https://www.youtube.com/playlist?list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH)
+[우아한테크코스 테코톡 Youtube](https://www.youtube.com/playlist?list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH)
 
-[Amigoscode](https://www.youtube.com/user/djdjalas)
+[Amigoscode Youtube](https://www.youtube.com/user/djdjalas)
 
 [[Oracle Code Seoul 2017] Java 9과 Spring 5로 바라보는 Java의 변화와 도전](https://www.youtube.com/watch?v=BFjrmj4p3_Y&t=1277s)
 
-[박재성](https://www.youtube.com/channel/UCGmYJSYFM19VgwEQJsY12Dg)
+[박재성님 Youtube](https://www.youtube.com/channel/UCGmYJSYFM19VgwEQJsY12Dg)
 
 [brave-people/Dev-Event](https://github.com/brave-people/Dev-Event)
 
@@ -227,15 +227,15 @@
 
 ## 참고
 
-[객체지향 프로그래밍이 뭔가요?](https://www.youtube.com/watch?v=vrhIxBWSJ04&t=119s)
+[객체지향 프로그래밍이 뭔가요? Youtube](https://www.youtube.com/watch?v=vrhIxBWSJ04&t=119s)
 
-[Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+[Design Patterns in Object Oriented Programming Youtube](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 
-[OOP는 중요하다. 하지만...](https://www.youtube.com/watch?v=7zz5gKa7iXk&t=58s](https://www.youtube.com/watch?v=7zz5gKa7iXk&t=58s))
+[OOP는 중요하다. 하지만... Youtube](https://www.youtube.com/watch?v=7zz5gKa7iXk&t=58s](https://www.youtube.com/watch?v=7zz5gKa7iXk&t=58s))
 
-[함수형 프로그래밍](https://www.youtube.com/watch?v=XoH9jzblxKQ)
+[함수형 프로그래밍 Youtube](https://www.youtube.com/watch?v=XoH9jzblxKQ)
 
-[OOP는 허접한 개발자 때문에 발전했다?](https://www.youtube.com/watch?v=oHaGgLRZy3Y&t=5s)
+[OOP는 허접한 개발자 때문에 발전했다? Youtube](https://www.youtube.com/watch?v=oHaGgLRZy3Y&t=5s)
 
 ---
 
@@ -331,17 +331,17 @@ IoC와 DI, PSA, *CoC, CGLIB, AOP, Dispatcher Servlet (Front-Controller Pattern),
 
 ## 참고
 
-[데어 프로그래밍](https://www.youtube.com/channel/UCVrhnbfe78ODeQglXtT1Elw)
+[데어 프로그래밍 Youtube](https://www.youtube.com/channel/UCVrhnbfe78ODeQglXtT1Elw)
 
-[나무소리](https://www.youtube.com/channel/UCtaUzBujIBjtrkqACmkM44g)
+[나무소리 Youtube](https://www.youtube.com/channel/UCtaUzBujIBjtrkqACmkM44g)
 
-[토비의 봄 TV 14회 스프링 리액티브 프로그래밍 (10) Flux의 특징과 활용방법](https://www.youtube.com/watch?v=bc4wTgA_2Xk&list=PLv-xDnFD-nnmof-yoZQN8Fs2kVljIuFyC)
+[토비의 봄 TV 14회 스프링 리액티브 프로그래밍 (10) Flux의 특징과 활용방법 Youtube](https://www.youtube.com/watch?v=bc4wTgA_2Xk&list=PLv-xDnFD-nnmof-yoZQN8Fs2kVljIuFyC)
 
-[백기선](https://www.youtube.com/channel/UCwjaZf1WggZdbczi36bWlBA)
+[백기선님 Youtube](https://www.youtube.com/channel/UCwjaZf1WggZdbczi36bWlBA)
 
 [cheese10yun/spring-guide](https://github.com/cheese10yun/spring-guide)
 
-[Day1, 2-2. 그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc&t=619s&ab_channel=naverd2)
+[Day1, 2-2. 그런 REST API로 괜찮은가? Youtube](https://www.youtube.com/watch?v=RP_f5dMoHFc&t=619s&ab_channel=naverd2)
 
 ---
 
@@ -440,9 +440,9 @@ IoC와 DI, PSA, *CoC, CGLIB, AOP, Dispatcher Servlet (Front-Controller Pattern),
 
 [공공데이터 포털](https://www.data.go.kr/)
 
-[](https://github.com/public-apis/public-apis)
+[public apis - 영어](https://github.com/public-apis/public-apis)
 
-[API란? 개념 정리와 포트폴리오에 유용한 대박 사이트 공유 🙌](https://www.youtube.com/watch?v=ogT267HvNuQ&t=337s&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC)
+[API란? 개념 정리와 포트폴리오에 유용한 대박 사이트 공유 🙌 Youtube](https://www.youtube.com/watch?v=ogT267HvNuQ&t=337s&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC)
 
 ---
 
