@@ -19,6 +19,10 @@
 
 [cheese10yun/dev-info](https://github.com/cheese10yun/dev-info)
 
+[주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
+
+[매일 업데이트 되는 IT 채용 일정](https://korecruit.kr/)
+
 ---
 
 # 면접 질문
