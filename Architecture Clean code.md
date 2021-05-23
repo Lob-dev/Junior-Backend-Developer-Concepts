@@ -33,13 +33,13 @@
 
 ## 참고
 
-[백명석님의 클린 코더스 강의](https://www.youtube.com/watch?v=60lLSe1phks&t=1678s)
-[코드스쿼드 | 클린코드, 클린아키텍처](https://www.youtube.com/watch?v=KUEe1tc2CbE&ab_channel=%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C)
-[토스ㅣSLASH 21 - 실무에서 바로 쓰는 Frontend Clean Code](https://www.youtube.com/watch?v=edWbHp_k_9Y&ab_channel=%ED%86%A0%EC%8A%A4)
-[죠니데브 johnnydev | 이 코드 어때요? "객관적으로 3000만큼 복잡해!"](https://www.youtube.com/watch?v=zMmoOuIG8Aw&t=283s&ab_channel=%EC%A3%A0%EB%8B%88%EB%8D%B0%EB%B8%8Cjohnnydev)
-[객체지향 생활 체조](https://github.com/iamkyu/TIL/blob/master/.bak/object-calisthenics/object-calisthenics.md)
-[개발 미션과 함께 읽는 클린 코드](https://woowabros.github.io/study/2019/03/20/cleancode.html)
-[LINE | 지속 가능한 소프트웨어 설계 패턴: 포트와 어댑터 아키텍처 적용하기](https://engineering.linecorp.com/ko/blog/port-and-adapter-architecture/)
-[DRY (Don't Repeat Yourself)](https://deviq.com/principles/dont-repeat-yourself)
-[YAGNI (You aren’t gonna need it)](https://deviq.com/principles/yagni)
-[KISS (Keep It Simple Stupid)](https://deviq.com/principles/keep-it-simple)
+[백명석님의 클린 코더스 강의](https://www.youtube.com/watch?v=60lLSe1phks&t=1678s) <br/>
+[코드스쿼드 | 클린코드, 클린아키텍처](https://www.youtube.com/watch?v=KUEe1tc2CbE&ab_channel=%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C) <br/>
+[토스ㅣSLASH 21 - 실무에서 바로 쓰는 Frontend Clean Code](https://www.youtube.com/watch?v=edWbHp_k_9Y&ab_channel=%ED%86%A0%EC%8A%A4) <br/>
+[죠니데브 johnnydev | 이 코드 어때요? "객관적으로 3000만큼 복잡해!"](https://www.youtube.com/watch?v=zMmoOuIG8Aw&t=283s&ab_channel=%EC%A3%A0%EB%8B%88%EB%8D%B0%EB%B8%8Cjohnnydev) <br/>
+[객체지향 생활 체조](https://github.com/iamkyu/TIL/blob/master/.bak/object-calisthenics/object-calisthenics.md) <br/>
+[개발 미션과 함께 읽는 클린 코드](https://woowabros.github.io/study/2019/03/20/cleancode.html) <br/>
+[LINE | 지속 가능한 소프트웨어 설계 패턴: 포트와 어댑터 아키텍처 적용하기](https://engineering.linecorp.com/ko/blog/port-and-adapter-architecture/) <br/>
+[DRY (Don't Repeat Yourself)](https://deviq.com/principles/dont-repeat-yourself) <br/>
+[YAGNI (You aren’t gonna need it)](https://deviq.com/principles/yagni) <br/>
+[KISS (Keep It Simple Stupid)](https://deviq.com/principles/keep-it-simple) <br/>
