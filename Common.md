@@ -27,16 +27,6 @@
 
 ## 참고
 
-[데어 프로그래밍 Youtube](https://www.youtube.com/channel/UCVrhnbfe78ODeQglXtT1Elw)
-
-[나무소리 Youtube](https://www.youtube.com/channel/UCtaUzBujIBjtrkqACmkM44g)
-
-[토비의 봄 TV 14회 스프링 리액티브 프로그래밍 (10) Flux의 특징과 활용방법 Youtube](https://www.youtube.com/watch?v=bc4wTgA_2Xk&list=PLv-xDnFD-nnmof-yoZQN8Fs2kVljIuFyC)
-
-[백기선님 Youtube](https://www.youtube.com/channel/UCwjaZf1WggZdbczi36bWlBA)
-
-[cheese10yun/spring-guide](https://github.com/cheese10yun/spring-guide)
-
 [Day1, 2-2. 그런 REST API로 괜찮은가? Youtube](https://www.youtube.com/watch?v=RP_f5dMoHFc&t=619s&ab_channel=naverd2)
 
 ---
