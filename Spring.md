@@ -87,3 +87,19 @@ IoC와 DI, PSA, *CoC, CGLIB, AOP, Dispatcher Servlet (Front-Controller Pattern),
 <br/>
 
 ---
+
+## 참고
+
+[11번가 스프링 정복 새싹반](https://github.com/11st-corp/spring-study-sprout)
+
+[데어 프로그래밍 Youtube](https://www.youtube.com/channel/UCVrhnbfe78ODeQglXtT1Elw)
+
+[나무소리 Youtube](https://www.youtube.com/channel/UCtaUzBujIBjtrkqACmkM44g)
+
+[토비의 봄 TV 14회 스프링 리액티브 프로그래밍 (10) Flux의 특징과 활용방법 Youtube](https://www.youtube.com/watch?v=bc4wTgA_2Xk&list=PLv-xDnFD-nnmof-yoZQN8Fs2kVljIuFyC)
+
+[백기선님 Youtube](https://www.youtube.com/channel/UCwjaZf1WggZdbczi36bWlBA)
+
+[cheese10yun/spring-guide](https://github.com/cheese10yun/spring-guide)
+
+---
