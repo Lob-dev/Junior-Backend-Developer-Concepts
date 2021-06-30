@@ -44,6 +44,8 @@
 - Spring을 학습하기 이전에 JVM의 메모리, 객체 지향 개념과 구현 방식을 다시 복습할 수 있고, Spring에 적용된 디자인 패턴을 선행 학습할 수 있는 좋은 책입니다.
 - [https://lob-dev.tistory.com/entry/책임을-중시하는-객체-지향-디자인의-핵심-개념-GRASP](https://lob-dev.tistory.com/entry/%EC%B1%85%EC%9E%84%EC%9D%84-%EC%A4%91%EC%8B%9C%ED%95%98%EB%8A%94-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%98-%ED%95%B5%EC%8B%AC-%EA%B0%9C%EB%85%90-GRASP)
 
+<br/>
+
 ### **코드로 배우는 스프링 부트 웹 프로젝트**
 
 - 취업이나 상황에 따라 시간이 부족하다면 앞선 책을 건너뛰고 해당 책으로 학습을 하는 것도 추천하기도 합니다. 입문 서적으로는 좋은 책인 것 같습니다.
@@ -59,6 +61,24 @@
 ### **처음 배우는 스프링 부트 2 (Optional)**
 
 - Spring Boot 모듈의 의존성 관리, 자동 설정. 테스트 환경 등을 설명하며 게시판 예제를 통해 Oauth2, Security, RESTful, Batch 등의 기본적인 개념과 예제를 다룹니다.
+
+<br/>
+
+### **etc : docker 학습**
+
+- https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html 혹은 기타 링크
+- Application 부터 Mysql, Redis, RabbitMQ 등을 별도 가상화 기술 사용 없이 쉽게 개발 환경을 구성하도록 도와줍니다.
+- 최근 많은 회사에서 docker와 같은 컨테이너 기반 기술을 이용하여 인스턴스를 생성하고 관리합니다. 
+- 다량의 컨테이너를 배포하고 관리하고 스케일 처리하는 것은 오케스트레이션 들을 사용하게 됩니다.
+
+<br/>
+
+### **etc : aws, cloud 기본 학습**
+
+- https://www.inflearn.com/course/aws-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0#curriculum 혹은 기타 링크
+- http://www.yes24.com/Product/Goods/102368122?OzSrank=4 , http://www.yes24.com/Product/Goods/73363873?OzSrank=21 혹은 기타 서적
+- 최근 많은 서비스들은 제공되는 Paas Saas 와 같은 Cloud platform을 활용하여 시스템 운용 비용을 낮추고 알람, 분산 처리, 스토리지 서버 등 여러가지를 aws를 통해 구성하게 됩니다.
+- 물론 GCP, Azure, NCP, Oracle cloud 같은 것도 존재하지만 aws가 제일 무난한 선택이라고 생각이 듭니다.
 
 <br/>
 
