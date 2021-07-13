@@ -73,6 +73,15 @@
 
 <br/>
 
+### **etc : RESTful 설계 학습**
+- 요즘 대부분의 HTTP API는 RESTful 설계 방식을 이용하여 REST API 라고 명명하기도 합니다. 하지만 생각보다 REST의 설계 제약은 빡빡하기 때문에 이것들을 만족하는 API는 거의 없다고 보아도 좋을 정도입니다.
+- 논란이 좀 있는 리처드슨의 모델이나 설계자인 로이 필딩의 논문 등을 보게된다면 이렇게 까지 해야돼? 싶기도 한데요.. 그래도 다 봐두는게 좋다고 생각합니다.
+- https://shoark7.github.io/programming/knowledge/what-is-rest 
+- https://www.restapitutorial.com/ - 영문 사이트
+- https://www.youtube.com/watch?v=RP_f5dMoHFc&t=638s&ab_channel=naverd2 - RESTful API를 학습한다면 필수적으로 보아야할 영상이라고 생각합니다.
+
+<br/>
+
 ### **etc : aws, cloud 기본 학습**
 
 - https://www.inflearn.com/course/aws-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0#curriculum 혹은 기타 링크
