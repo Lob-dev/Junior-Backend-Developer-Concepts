@@ -60,4 +60,5 @@
 ### [Architecture Clean code 서적, 인강 참고 영상 정리 중](Architecture%20Clean%20code.md)
 ### [Spring 입문까지 학습 코스 추천](Introduction%20To%20Spring.md)
 ### [취업 면접 질문, Github, 영상 정리](Job%20interview.md)
+### [개발자 취업 준비생이 보면 좋을 링크](Good_references.md)
 
