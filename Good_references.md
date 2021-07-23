@@ -30,6 +30,11 @@
     - [개발자의 평생공부 - 임백준님](https://zdnet.co.kr/view/?no=20170616090644)
 - 지원자의 자세
     - [좋은 면접자/지원자가 되는 방법](https://repo.yona.io/doortts/blog/post/292)
+- 일하는 개발자
+    - [개발 분야와 관계없이 알아야 하는 기술 10가지](https://youtu.be/YhjTXBXPQrw)
+    - [절망 드리분 성장: 함께 일하고 싶은 개발자 되기까지](https://youtu.be/7t-x0rFT4Uw)
+    - [성장을 바라는 웹 프론트엔드 개발자를 위한 제언](https://youtu.be/XcnWtlxTyPk)
+    - [개발자도 DB 모델링을 알아야 할까요](https://youtu.be/Lq1ZjP2ZWzM)
 
 <br/>
 
