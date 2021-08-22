@@ -111,6 +111,23 @@
 
 # 프로젝트
 
+## Sample Projects 
+학습하실 때 참고하실 수 있도록 만들어본 Project들 입니다.
+### https://github.com/Lob-dev/Sample-Cache
+
+- Spring Data Redis, Cachemanager, Annotations..
+- Sample 용으로 만들었기 때문에 도입할 필요 없는 리소스에 설정하였습니다.
+
+<br/>
+
+### https://github.com/Lob-dev/Sample-Auth
+
+- Spring Security, Oauth2, JWT(Sessionless), ExceptionAdvice, logging
+- 현재 유지 단계인 Security Oauth2 JWT 라이브러리를 사용하였습니다.
+- 새로 개발된 모듈의 레퍼런스가 충분해진다면 마이그레이션을 진행할 예정입니다.
+
+<br/>
+
 ## 참고
 
 [공공데이터 포털](https://www.data.go.kr/)
