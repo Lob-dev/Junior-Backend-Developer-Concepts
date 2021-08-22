@@ -116,7 +116,7 @@
 ### https://github.com/Lob-dev/Sample-Cache
 
 - Spring Data Redis, Cachemanager, Annotations..
-- Sample 용으로 만들었기 때문에 도입할 필요 없는 리소스에 설정하였습니다.
+- 학습 및 Sample 용으로 만들었기 때문에 도입할 필요 없는 리소스에 캐싱을 설정하였습니다.
 
 <br/>
 
