@@ -91,6 +91,17 @@
 
 <br/>
 
+### **etc : git, github**
+- git을 통한 버전 관리 개념은 프로젝트를 진행하기 위한 정말 기본적인 소양입니다. (기본이라고 엄청 쉽다! 이런건 아닙니다.. 저는 개인적으로 언어 공부할 때보다 어려웠거든요.) 뭐.. 혼자 취업을 준비하시는 분들은 이부분을 간과하시는 경우가 많은데요. 사실 면접때 물어보진 않고 온보딩때 알려주시기도 합니다.
+- 서론이 길었는데요. ㅎㅎ git을 사용하여 협업을 진행하는 git-flow 와 같은 것을 미리 숙지하시고, github을 통해 진행해왔던 프로젝트를 관리하고 꾸며놓는 것은 정말 좋은 방법이라고 생각합니다.
+- https://backlog.com/git-tutorial/kr/stepup/stepup1_1.html
+- https://www.inflearn.com/course/git-and-github
+- https://www.inflearn.com/course/%EB%B9%A0%EB%A5%B4%EA%B2%8C-git
+- https://www.inflearn.com/course/git-%EA%B0%95%EC%A2%8C-%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9
+- https://brunch.co.kr/@fermat39/84
+
+<br/>
+
 ### **개인 프로젝트 진행**
 
 - 앞에서 경험했던 기술들을 본인만의 요구 사항에 녹이고 적용하여 프로젝트를 진행하시면 좋을 것 같습니다.
