@@ -23,7 +23,7 @@
 
 <br/>
 
-### **Sevlet API (JSP는 제외)**
+### **Servlet API (JSP는 제외)**
 
 - Server - Client Model, HTTP, SSR and CSR, JSON, RESTful API*
 - Servlet은 자바 기반의 "표준" Protocol API이며, HTTP와 기타 Protocol을 처리하는 뼈대가 됩니다. 스프링이나 Vaddin, Struct 같은 프레임워크도 내부적으로는 Servlet을 통해 동작하는 기능들이 있습니다. 자바 기반의 웹 근본 개념 이해를 위해 우선하여 학습하는 것을 추천합니다.
