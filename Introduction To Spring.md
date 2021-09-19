@@ -7,64 +7,72 @@
 
 ### **자바 기본서 항목 1독**
 
-- [https://lob-dev.tistory.com/entry/Java의-Reflection-API](https://lob-dev.tistory.com/entry/Java%EC%9D%98-Reflection-API)
+- 참고 : [https://lob-dev.tistory.com/entry/Java의-Reflection-API](https://lob-dev.tistory.com/entry/Java%EC%9D%98-Reflection-API)
 
 <br/>
 
 ### **객체 지향의 사실과 오해**
+
+- Java 서적 추천 항목에 포함되어 있는 책으로 객체지향 개념을 바로 잡는데 큰 도움이 되는 책입니다. 
 
 <br/>
 
 ### **SQL 첫걸음 혹은 기타 SQL 책**
 
 - CRUD, Local or Global transaction, DDL 기본 , Index
-- 대부분의 서비스는 CRUD를 무조건적으로 포함한다고 봐야됩니다. 이는 게시판 같은 것에 특정 되는 개념이 아니라 모든 데이터를 다룸에 있어서 통용되는 것입니다.
-- 트랜잭션, 인덱스 개념은 개발자에겐 필수 개념이라고 생각합니다.
+- 대부분의 서비스는 CRUD를 무조건적으로 포함한다고 봐야됩니다. (모든 데이터를 다룸에 있어서 통용되는 것입니다.) 여러 교육에서 게시판 형태의 프로젝트를 기본 예제로 자주 사용하는 것도 이러한 맥락입니다. 
+- 부가적으로 트랜잭션의 특징과 인덱스 개념은 취업을 하기전 필수 개념이라고 생각합니다. CS 개념 이외에도 Application단에서 제공하는 관련 API에 대한 기본 학습이 필요합니다. 
 
 <br/>
 
 ### **Servlet API (JSP는 제외)**
 
-- Server - Client Model, HTTP, SSR and CSR, JSON, RESTful API*
-- Servlet은 자바 기반의 "표준" Protocol API이며, HTTP와 기타 Protocol을 처리하는 뼈대가 됩니다. 스프링이나 Vaddin, Struct 같은 프레임워크도 내부적으로는 Servlet을 통해 동작하는 기능들이 있습니다. 자바 기반의 웹 근본 개념 이해를 위해 우선하여 학습하는 것을 추천합니다.
-- [https://lob-dev.tistory.com/entry/CGI-Servlet-Servlet-Container](https://lob-dev.tistory.com/entry/CGI-Servlet-Servlet-Container)
-- [https://lob-dev.tistory.com/entry/01-RESTful-개념과-사전-지식](https://lob-dev.tistory.com/entry/01-RESTful-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%82%AC%EC%A0%84-%EC%A7%80%EC%8B%9D)
+- Server - Client Model, HTTP, SSR and CSR, JSON, RESTful.. 다양한 개념이 많습니다만 JVM 생태계에서 이를 지원하는 API는 바로 Servlet입니다.
+- Servlet은 자바 기반의 "표준" Protocol API이며, HTTP와 기타 Protocol을 처리하는 뼈대가 됩니다. Spring MVC나 Vaddin, Struct 같은 프레임워크도 내부적으로는 Servlet을 통해 동작하기에 자바 기반의 웹 근본 개념 이해를 위해 우선하여 학습하는 것을 추천합니다.
+- 자바에서도 Event Loop를 기반으로하는 비동기 방식 처리를 지원합니다만 아직까진 신입에게 요구하는 회사를 본 것은 손에 꼽을 정도입니다.
+- 참고 : [https://lob-dev.tistory.com/entry/CGI-Servlet-Servlet-Container](https://lob-dev.tistory.com/entry/CGI-Servlet-Servlet-Container)
+- 참고 : [https://lob-dev.tistory.com/entry/01-RESTful-개념과-사전-지식](https://lob-dev.tistory.com/entry/01-RESTful-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%82%AC%EC%A0%84-%EC%A7%80%EC%8B%9D)
 
 <br/>
 
 ### **JDBC API**
 
-- JDBC는 자바 기반의 "표준" DB 접근 API이며, Mybatis, JPA 와 같은 SQL Mapper, ORM 프레임워크들도 내부적으로는 JDBC의 Connection과 Statement를 사용하기 때문에 이를 통한 애플리케이션 시점에서의 로컬, 글로벌 트랜잭션 방식을 이해하는 것이 개인적으로 중요하다고 생각합니다.
-- [https://lob-dev.tistory.com/entry/Java-Database-Connectivity-알아보기](https://lob-dev.tistory.com/entry/Java-Database-Connectivity-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
+- JDBC는 자바 기반의 "표준" DB 접근 API이며, Mybatis, JPA 와 같은 SQL Mapper, 각종 ORM 프레임워크들도 내부적으로는 JDBC API를 사용하기 때문에 이를 통한 애플리케이션 시점에서의 로컬, 글로벌 트랜잭션 방식을 이해하는 것이 개인적으로 중요하다고 생각합니다.
+- 적어도 JDBC Template API 수준의 추상화까진 공부해보는 것이 좋다고 생각합니다.
+- 참고 : [https://lob-dev.tistory.com/entry/Java-Database-Connectivity-알아보기](https://lob-dev.tistory.com/entry/Java-Database-Connectivity-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 
 <br/>
 
 ### **스프링 입문을 위한 자바 객체 지향의 원리와 이해**
 
 - Spring을 학습하기 이전에 JVM의 메모리, 객체 지향 개념과 구현 방식을 다시 복습할 수 있고, Spring에 적용된 디자인 패턴을 선행 학습할 수 있는 좋은 책입니다.
-- [https://lob-dev.tistory.com/entry/책임을-중시하는-객체-지향-디자인의-핵심-개념-GRASP](https://lob-dev.tistory.com/entry/%EC%B1%85%EC%9E%84%EC%9D%84-%EC%A4%91%EC%8B%9C%ED%95%98%EB%8A%94-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%98-%ED%95%B5%EC%8B%AC-%EA%B0%9C%EB%85%90-GRASP)
+- 책의 분량에 비해 다루는 내용이 많고 잘 정리되었다고 생각합니다.  
+- 참고 : [https://lob-dev.tistory.com/entry/책임을-중시하는-객체-지향-디자인의-핵심-개념-GRASP](https://lob-dev.tistory.com/entry/%EC%B1%85%EC%9E%84%EC%9D%84-%EC%A4%91%EC%8B%9C%ED%95%98%EB%8A%94-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%98-%ED%95%B5%EC%8B%AC-%EA%B0%9C%EB%85%90-GRASP)
 
 <br/>
 
 ### **코드로 배우는 스프링 부트 웹 프로젝트**
 
-- 취업이나 상황에 따라 시간이 부족하다면 앞선 책을 건너뛰고 해당 책으로 학습을 하는 것도 추천하기도 합니다. 입문 서적으로는 좋은 책인 것 같습니다.
+- 취업이나 상황에 따라 시간이 부족하다면 앞선 책을 건너뛰고 해당 책으로 학습을 하는 것도 추천하기도 합니다. 입문 서적으로는 좋은 책입니다.
+- 국비를 통해 교육을 받으신 취준생 분들이라면, 이책에서 ORM과 QueryDSL이 무엇이고 어떻게 사용하는 것인지 경험해볼 수 있다고 생각합니다.
 
 <br/>
 
 ### **인프런 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술**
 
 - 기본적인 Spring Boot 애플리케이션을 경험해볼 수 있는 좋은 입문 강의입니다. MVC 요청 흐름과 템플릿 엔진 등의 개념을 경험해볼 수 있습니다.
+- 유료 강의를 선행하기 이전에 해당 강의를 수강함으로써 현재 자신의 수준을 파악하고 보충할 수 있는 기회가 될 것이라고 생각합니다. 
 
 <br/>
 
 ### **처음 배우는 스프링 부트 2 (Optional)**
 
 - Spring Boot 모듈의 의존성 관리, 자동 설정. 테스트 환경 등을 설명하며 게시판 예제를 통해 Oauth2, Security, RESTful, Batch 등의 기본적인 개념과 예제를 다룹니다.
+- 프로젝트를 진행하기 이전에 좀 더 다양환 기능을 녹여보고 싶으시다면, 해당 책에서 다루는 기능들을 공부하여 추가해볼 수 있을 것이라고 생각합니다. 물론 포트폴리오로 작성하는 프로젝트의 경우 하나하나의 기능들에 대하여서 해당 책보다 더 깊은 이해를 하고 사용하는 것이 좋습니다. 
 
 <br/>
 
-### **etc : docker 학습**
+### **etc : Docker 학습**
 
 - https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html 혹은 기타 링크
 - Application 부터 Mysql, Redis, RabbitMQ 등을 별도 가상화 기술 사용 없이 쉽게 개발 환경을 구성하도록 도와줍니다.
@@ -82,7 +90,7 @@
 
 <br/>
 
-### **etc : aws, cloud 기본 학습**
+### **etc : AWS or CLOUD 기본 학습**
 
 - https://www.inflearn.com/course/aws-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0#curriculum 혹은 기타 링크
 - http://www.yes24.com/Product/Goods/102368122?OzSrank=4 , http://www.yes24.com/Product/Goods/73363873?OzSrank=21 혹은 기타 서적
@@ -91,7 +99,7 @@
 
 <br/>
 
-### **etc : git, github**
+### **etc : Git, Github**
 - git을 통한 버전 관리 개념은 프로젝트를 진행하기 위한 정말 기본적인 소양입니다. (기본이라고 엄청 쉽다! 이런건 아닙니다.. 저는 개인적으로 언어 공부할 때보다 어려웠거든요.) 뭐.. 혼자 취업을 준비하시는 분들은 이부분을 간과하시는 경우가 많은데요. 사실 면접때 물어보진 않고 온보딩때 알려주시기도 합니다.
 - 서론이 길었는데요. ㅎㅎ git을 사용하여 협업을 진행하는 git-flow 와 같은 것을 미리 숙지하시고, github을 통해 진행해왔던 프로젝트를 관리하고 꾸며놓는 것은 정말 좋은 방법이라고 생각합니다.
 - https://backlog.com/git-tutorial/kr/stepup/stepup1_1.html
