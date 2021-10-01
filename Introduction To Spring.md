@@ -7,7 +7,8 @@
 
 ### **자바 기본서 항목 1독**
 
-- 참고 : [https://lob-dev.tistory.com/entry/Java의-Reflection-API](https://lob-dev.tistory.com/entry/Java%EC%9D%98-Reflection-API)
+- 추가 학습 [Reflection API] : [https://lob-dev.tistory.com/entry/Java의-Reflection-API](https://lob-dev.tistory.com/entry/Java%EC%9D%98-Reflection-API)
+- 추가 학습 [Annotation] : https://b-programmer.tistory.com/264
 
 <br/>
 
@@ -17,7 +18,7 @@
 
 <br/>
 
-### **SQL 첫걸음 혹은 기타 SQL 책**
+### **SQL 첫걸음 혹은 기타 SQL 책 [JDBC 전후로 진행해도 무관합니다.]**
 
 - CRUD, Local or Global transaction, DDL 기본 , Index
 - 대부분의 서비스는 CRUD를 무조건적으로 포함한다고 봐야됩니다. (모든 데이터를 다룸에 있어서 통용되는 것입니다.) 여러 교육에서 게시판 형태의 프로젝트를 기본 예제로 자주 사용하는 것도 이러한 맥락입니다. 
@@ -25,21 +26,21 @@
 
 <br/>
 
-### **Servlet API (JSP는 제외)**
+### **Servlet API (JSP는 제외) [영한님의 MVC 1편으로 어느정도 학습 가능합니다.]**
 
 - Server - Client Model, HTTP, SSR and CSR, JSON, RESTful.. 다양한 개념이 많습니다만 JVM 생태계에서 이를 지원하는 API는 바로 Servlet입니다.
 - Servlet은 자바 기반의 "표준" Protocol API이며, HTTP와 기타 Protocol을 처리하는 뼈대가 됩니다. Spring MVC나 Vaddin, Struct 같은 프레임워크도 내부적으로는 Servlet을 통해 동작하기에 자바 기반의 웹 근본 개념 이해를 위해 우선하여 학습하는 것을 추천합니다.
 - 자바에서도 Event Loop를 기반으로하는 비동기 방식 처리를 지원합니다만 아직까진 신입에게 요구하는 회사를 본 것은 손에 꼽을 정도입니다.
-- 참고 : [https://lob-dev.tistory.com/entry/CGI-Servlet-Servlet-Container](https://lob-dev.tistory.com/entry/CGI-Servlet-Servlet-Container)
-- 참고 : [https://lob-dev.tistory.com/entry/01-RESTful-개념과-사전-지식](https://lob-dev.tistory.com/entry/01-RESTful-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%82%AC%EC%A0%84-%EC%A7%80%EC%8B%9D)
+- 부가 학습  : [https://lob-dev.tistory.com/entry/CGI-Servlet-Servlet-Container](https://lob-dev.tistory.com/entry/CGI-Servlet-Servlet-Container)
+- 추가 학습 자료 : [https://lob-dev.tistory.com/entry/01-RESTful-개념과-사전-지식](https://lob-dev.tistory.com/entry/01-RESTful-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%82%AC%EC%A0%84-%EC%A7%80%EC%8B%9D)
 
 <br/>
 
-### **JDBC API**
+### **JDBC API [자잘한 것보단 Connection Pool, Connection, ResultSet, Statement를 집중적으로 하는게 좋은듯 합니다.]**
 
 - JDBC는 자바 기반의 "표준" DB 접근 API이며, Mybatis, JPA 와 같은 SQL Mapper, 각종 ORM 프레임워크들도 내부적으로는 JDBC API를 사용하기 때문에 이를 통한 애플리케이션 시점에서의 로컬, 글로벌 트랜잭션 방식을 이해하는 것이 개인적으로 중요하다고 생각합니다.
 - 적어도 JDBC Template API 수준의 추상화까진 공부해보는 것이 좋다고 생각합니다.
-- 참고 : [https://lob-dev.tistory.com/entry/Java-Database-Connectivity-알아보기](https://lob-dev.tistory.com/entry/Java-Database-Connectivity-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
+- 부가 학습 자료 : [https://lob-dev.tistory.com/entry/Java-Database-Connectivity-알아보기](https://lob-dev.tistory.com/entry/Java-Database-Connectivity-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 
 <br/>
 
@@ -47,7 +48,15 @@
 
 - Spring을 학습하기 이전에 JVM의 메모리, 객체 지향 개념과 구현 방식을 다시 복습할 수 있고, Spring에 적용된 디자인 패턴을 선행 학습할 수 있는 좋은 책입니다.
 - 책의 분량에 비해 다루는 내용이 많고 잘 정리되었다고 생각합니다.  
-- 참고 : [https://lob-dev.tistory.com/entry/책임을-중시하는-객체-지향-디자인의-핵심-개념-GRASP](https://lob-dev.tistory.com/entry/%EC%B1%85%EC%9E%84%EC%9D%84-%EC%A4%91%EC%8B%9C%ED%95%98%EB%8A%94-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%98-%ED%95%B5%EC%8B%AC-%EA%B0%9C%EB%85%90-GRASP)
+- 추가 학습 자료 : [https://lob-dev.tistory.com/entry/책임을-중시하는-객체-지향-디자인의-핵심-개념-GRASP](https://lob-dev.tistory.com/entry/%EC%B1%85%EC%9E%84%EC%9D%84-%EC%A4%91%EC%8B%9C%ED%95%98%EB%8A%94-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%98-%ED%95%B5%EC%8B%AC-%EA%B0%9C%EB%85%90-GRASP)
+- 
+
+<br/>
+
+### **인프런 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 [이전 개념들을 어느정도 코드로 구현해볼 수 있고, 템플릿 엔진 개념도 학습 가능합니다.]**
+
+- 기본적인 Spring Boot 애플리케이션을 경험해볼 수 있는 좋은 입문 강의입니다. MVC 요청 흐름과 템플릿 엔진 등의 개념을 경험해볼 수 있습니다.
+- 유료 강의를 선행하기 이전에 해당 강의를 수강함으로써 현재 자신의 수준을 파악하고 보충할 수 있는 기회가 될 것이라고 생각합니다. 
 
 <br/>
 
@@ -55,13 +64,6 @@
 
 - 취업이나 상황에 따라 시간이 부족하다면 앞선 책을 건너뛰고 해당 책으로 학습을 하는 것도 추천하기도 합니다. 입문 서적으로는 좋은 책입니다.
 - 국비를 통해 교육을 받으신 취준생 분들이라면, 이책에서 ORM과 QueryDSL이 무엇이고 어떻게 사용하는 것인지 경험해볼 수 있다고 생각합니다.
-
-<br/>
-
-### **인프런 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술**
-
-- 기본적인 Spring Boot 애플리케이션을 경험해볼 수 있는 좋은 입문 강의입니다. MVC 요청 흐름과 템플릿 엔진 등의 개념을 경험해볼 수 있습니다.
-- 유료 강의를 선행하기 이전에 해당 강의를 수강함으로써 현재 자신의 수준을 파악하고 보충할 수 있는 기회가 될 것이라고 생각합니다. 
 
 <br/>
 
@@ -120,8 +122,18 @@
 
 <br/>
 
-**이후는 위에 따로 서술된 항목이나 주변의 추천을 통해 추가 학습 진행**
+## **이후는 따로 서술된 항목이나 주변의 추천을 통해 추가 학습 진행**
+- 이 문서에 정리된 자바, 스프링, SQL 등 정리된 항목의 좀 더 심화적인 책을 학습하고 차근차근 개념을 정리하는 것을 추천합니다.
+- 면접 질문 리스트는 신입 ~ 주니어 (2년차 정도) 수준까지 예상을 하여 작성한 것이기에 쉬운 질문부터 정리해보는 것을 추천합니다.
 
+<br/>
+
+### Spring Security 학습 추천 방식
+- Spring에서 제공하는 인증 및 인가를 담당하는 모듈입니다. 직접 인증 및 인가 기능을 구현하는 것보다는 이미 구현된 모듈을 통해 여러 기능을 제공하고 취약한 부분을 보완하는 것이 더 경제적이기 때문에 Spring Security는 많이 사용됩니다.
+- 이론 학습 위주의 경우 : Java의 Thread Local, Proxy, Web 생태계의 HttpSession, Cookie, WAS의 JSESSIONID, Servlet의 Filter 그리고 인증과 인가의 개념을 학습하신 뒤 보는 것을 추천합니다(이 개념들을 기반으로 많은 기능들이 구현되어 있습니다.)
+- 프로젝트 기반 학습의 경우 : 이 경우에는 HttpSession과 AOP를 이용하여 인증 및 인가 처리를 구현해보신 다음 Security로 고도화하는 경험을 해보는 것도 좋다고 생각합니다.
+
+       
 <br/>
 
 ---
