@@ -22,13 +22,14 @@
 
 - CRUD, Local or Global transaction, DDL 기본 , Index
 - 대부분의 서비스는 CRUD를 무조건적으로 포함한다고 봐야됩니다. (모든 데이터를 다룸에 있어서 통용되는 것입니다.) 여러 교육에서 게시판 형태의 프로젝트를 기본 예제로 자주 사용하는 것도 이러한 맥락입니다. 
-- 부가적으로 트랜잭션의 특징과 인덱스 개념은 취업을 하기전 필수 개념이라고 생각합니다. CS 개념 이외에도 Application단에서 제공하는 관련 API에 대한 기본 학습이 필요합니다. 
+- 부가적으로 트랜잭션의 특징과 인덱스 개념은 취업을 하기전 필수 개념이라고 생각합니다. CS 개념 이외에도 애플리케이션단에서 제공하는 관련 API에 대한 기본 학습이 필요합니다. 
+- 최근 일정 이상 기업의 면접에서는 샤딩이나 레플리케이션도 질문하는 겅우가 늘어나고 있는데요. 그와 관련한 개념 학습 정도는 해두시는 것이 좋을 것 같습니다. 샤딩의 경우 우아한 형제들 기술 블로그에 잘 정리되어 있습니다.  
 
 <br/>
 
 ### **Servlet API (JSP는 제외) [영한님의 MVC 1편으로 어느정도 학습 가능합니다.]**
 
-- Server - Client Model, HTTP, SSR and CSR, JSON, RESTful.. 다양한 개념이 많습니다만 JVM 생태계에서 웹 프로토콜을 지원하는 핵심 API는 바로 Servlet입니다.
+- Server - Client Model, HTTP, SSR and CSR, JSON, RESTful.. 웹과 관련된 다양한 개념이 많습니다만 현실적으로 JVM 생태계에서 웹 프로토콜을 지원하는 핵심 API는 바로 Servlet입니다.
 - Servlet은 자바 기반의 "표준" Protocol API이며, HTTP와 기타 Protocol을 처리하는 뼈대가 됩니다. Spring MVC나 Vaddin, Struct 같은 프레임워크도 내부적으로는 Servlet을 통해 동작하기에 자바 기반의 웹 근본 개념 이해를 위해 우선하여 학습하는 것을 추천합니다.
 - 자바에서도 Event Loop를 기반으로하는 비동기 방식 처리를 지원합니다만 아직까지 신입에게 요구하는 회사를 본 것은 손에 꼽을 정도입니다.
 - 부가 학습  : [https://lob-dev.tistory.com/entry/CGI-Servlet-Servlet-Container](https://lob-dev.tistory.com/entry/CGI-Servlet-Servlet-Container)
@@ -36,7 +37,7 @@
 
 <br/>
 
-### **JDBC API [자잘한 것보단 Connection Pool, Connection, ResultSet, Statement를 집중적으로 하는게 좋은듯 합니다.]**
+### **JDBC API [Connection Pool, Connection, ResultSet, Statement 집중!]**
 
 - JDBC는 자바 기반의 "표준" DB 접근 API이며, Mybatis, JPA 와 같은 SQL Mapper, 각종 ORM 프레임워크들도 내부적으로는 JDBC API를 사용하기 때문에 이를 통한 애플리케이션 시점에서의 로컬, 글로벌 트랜잭션 방식을 이해하는 것이 개인적으로 중요하다고 생각합니다.
 - 적어도 JDBC Template API 수준의 추상화까진 공부해보는 것이 좋다고 생각합니다.
@@ -49,7 +50,7 @@
 - Spring을 학습하기 이전에 JVM의 메모리, 객체 지향 개념과 구현 방식을 다시 복습할 수 있고, Spring에 적용된 디자인 패턴을 선행 학습할 수 있는 좋은 책입니다.
 - 책의 분량에 비해 다루는 내용이 많고 잘 정리되었다고 생각합니다.  
 - 추가 학습 자료 : [https://lob-dev.tistory.com/entry/책임을-중시하는-객체-지향-디자인의-핵심-개념-GRASP](https://lob-dev.tistory.com/entry/%EC%B1%85%EC%9E%84%EC%9D%84-%EC%A4%91%EC%8B%9C%ED%95%98%EB%8A%94-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%98-%ED%95%B5%EC%8B%AC-%EA%B0%9C%EB%85%90-GRASP)
-- 
+
 
 <br/>
 
@@ -57,6 +58,12 @@
 
 - 기본적인 Spring Boot 애플리케이션을 경험해볼 수 있는 좋은 입문 강의입니다. MVC 요청 흐름과 템플릿 엔진 등의 개념을 경험해볼 수 있습니다.
 - 유료 강의를 선행하기 이전에 해당 강의를 수강함으로써 현재 자신의 수준을 파악하고 보충할 수 있는 기회가 될 것이라고 생각합니다. 
+
+<br/>
+
+### **인프런 Spring Boot를 이용한 RESTful Web Services 개발 **
+
+- RESTful API 설계 방식과 JPA를 활용한 데이터 베이스, API 실제 구현 코드를 경험해볼 수 있는 좋은 강의입니다. 최근 강사님이 업데이트를 예정하여 최신 버전도 경험해볼 수 있을 것 같습니다.
 
 <br/>
 
