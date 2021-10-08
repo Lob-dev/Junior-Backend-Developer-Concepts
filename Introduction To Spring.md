@@ -28,7 +28,7 @@
 
 ### **Servlet API (JSP는 제외) [영한님의 MVC 1편으로 어느정도 학습 가능합니다.]**
 
-- Server - Client Model, HTTP, SSR and CSR, JSON, RESTful.. 다양한 개념이 많습니다만 JVM 생태계에서 이를 지원하는 API는 바로 Servlet입니다.
+- Server - Client Model, HTTP, SSR and CSR, JSON, RESTful.. 다양한 개념이 많습니다만 JVM 생태계에서 웹 프로토콜을 지원하는 핵심 API는 바로 Servlet입니다.
 - Servlet은 자바 기반의 "표준" Protocol API이며, HTTP와 기타 Protocol을 처리하는 뼈대가 됩니다. Spring MVC나 Vaddin, Struct 같은 프레임워크도 내부적으로는 Servlet을 통해 동작하기에 자바 기반의 웹 근본 개념 이해를 위해 우선하여 학습하는 것을 추천합니다.
 - 자바에서도 Event Loop를 기반으로하는 비동기 방식 처리를 지원합니다만 아직까진 신입에게 요구하는 회사를 본 것은 손에 꼽을 정도입니다.
 - 부가 학습  : [https://lob-dev.tistory.com/entry/CGI-Servlet-Servlet-Container](https://lob-dev.tistory.com/entry/CGI-Servlet-Servlet-Container)
