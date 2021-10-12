@@ -1,7 +1,7 @@
 
-# 개인적으로 추천하는 입문 학습 흐름
+# 개인적으로 추천하는 백엔드 입문 학습 흐름
 
-## 자바 입문부터 스프링를 활용한 첫 토이 프로젝트까지
+## 자바 입문부터 스프링 프레임워크를 이용한 첫 프로젝트 개발까지
 
 <br/>
 
@@ -34,6 +34,14 @@
 - 자바에서도 Event Loop를 기반으로하는 비동기 방식 처리를 지원합니다만 아직까지 신입에게 요구하는 회사를 본 것은 손에 꼽을 정도입니다.
 - 부가 학습  : [https://lob-dev.tistory.com/entry/CGI-Servlet-Servlet-Container](https://lob-dev.tistory.com/entry/CGI-Servlet-Servlet-Container)
 - 추가 학습 자료 : [https://lob-dev.tistory.com/entry/01-RESTful-개념과-사전-지식](https://lob-dev.tistory.com/entry/01-RESTful-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%82%AC%EC%A0%84-%EC%A7%80%EC%8B%9D)
+
+<br/>
+
+### **CS 보충 학습**
+
+- [서적 : 학교에서 알려주지 않는 17가지 실무 개발 기술](http://www.yes24.com/Product/Goods/89906094)
+- [서적 : 그림으로 배우는 HTTP & Network](http://www.yes24.com/Product/Goods/15894097?OzSrank=1)
+- 위 서적들은 다양한 개념을 쉽게 다루는 책들입니다. 저도 취업 준비를 할 때 이 서적들을 보면서 막혔던 부분들을 어느정도 해소할 수 있었습니다. 
 
 <br/>
 
@@ -137,6 +145,14 @@
 
 <br/>
 
+### **etc : 인프라 보충 학습** 
+
+- [서적 : 그림으로 공부하는 IT 인프라 구조](http://www.yes24.com/Product/Goods/95800974)
+- [서적 : 그림으로 공부하는 시스템 성능 구조](http://www.yes24.com/Product/Goods/17947564?OzSrank=1)
+- 제가 개인적으로 좋아하는 그림으로 배우는 시리즈의 인프라 관련 서적입니다. 인프라 서버 구조와 성능 지표, 개선 등에 대한 내용을 공부할 수 있습니다.
+
+<br/>
+
 ### **개인 프로젝트 진행**
 
 - 앞에서 경험했던 기술들을 본인만의 요구 사항에 녹이고 적용하여 프로젝트를 진행하시면 좋을 것 같습니다.
@@ -158,6 +174,23 @@
 - 이론 학습 위주의 경우 : Java의 Thread Local, Proxy, Web 생태계의 HttpSession, Cookie, WAS의 JSESSIONID, Servlet의 Filter 그리고 인증과 인가의 개념을 학습하신 뒤 보는 것을 추천합니다(이 개념들을 기반으로 많은 기능들이 구현되어 있습니다.)
 - 프로젝트 기반 학습의 경우 : 이 경우에는 HttpSession과 AOP를 이용하여 인증 및 인가 처리를 구현해보신 다음 Security로 고도화하는 경험을 해보는 것도 좋다고 생각합니다.
 
+<br/>
+
+### 좀 더 넓혀가기
+
+- 도메인 주도 설계 핵심, 도메인 주도 설계
+- Message broker, RabbitMQ
+- Nginx
+- Kotlin
+- Javascript and Library (Node.js Runtime, express, nest, React or Vue..)
+
+<br/>
+
+### 좀 더 나아가기
+
+- Effective SQL -> Real MySQL 8.0
+- 데이터 중심 애플리케이션 설계
+- 가상 면접 사례로 배우는 대규모 시스템 설계 기초
        
 <br/>
 
