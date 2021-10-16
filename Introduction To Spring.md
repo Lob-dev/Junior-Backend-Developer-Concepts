@@ -122,6 +122,7 @@
 - https://shoark7.github.io/programming/knowledge/what-is-rest 
 - https://www.restapitutorial.com/ - 영문 사이트
 - https://www.youtube.com/watch?v=RP_f5dMoHFc&t=638s&ab_channel=naverd2 - RESTful API를 학습한다면 필수적으로 보아야할 영상이라고 생각합니다.
+- https://www.youtube.com/watch?v=_SikP7FwZhY&ab_channel=NHNCloud -2019 NHN 컨퍼런스 발표 자료로써 실 사례를 통해 URL을 어떻게 설계해야할지 알 수 있습니다.
 
 <br/>
 
