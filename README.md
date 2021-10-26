@@ -26,6 +26,12 @@ Java, Spring 위주의 Back-end 신입 개발자를 위한 저장소입니다. �
 
 2021.08.22 15:19 : Spring Cache, Security-jwt-Oauth(password grant) Sample Project 내용 추가 ( Introduction To Spring.md )
 
+2021.10.06, 08, 12, 16 : Spring 입문 내용 보강
+
+2021.10.25       : 신입 백엔드 개발자 면접 내용 질문 추가
+
+2021.10.25       : Spring 서적 내용 보강 (책 후기 추가)
+
 ---
 
 *내용 추가, 정정 요청은 오픈 프로필, 채팅 방에서 바보 개발자 Lob에게 혹은 해당 Repo에 이슈로 남겨주시길 바랍니다.*
