@@ -82,7 +82,7 @@
     - [개발자가 반드시 개발 블로그를 운영해야 하는 이유 (수익은 덤)](https://www.youtube.com/watch?v=oJPIq4fJ09Q&ab_channel=30%EB%8C%80%EB%B0%A9%EA%B5%AC%EC%84%9D%EC%9D%B4%EC%95%BC%EA%B8%B0)
     - [대기업 개발자가 설명하는 개발자 채용 프로세스와 약간의 미세먼지 만한 팁](https://www.youtube.com/watch?v=BQ4VdfW6CBg&t=73s&ab_channel=%EC%A7%91%EC%88%9C%EC%9D%B4%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%EC%98%81%EC%83%81%EC%9D%BC%EA%B8%B0GRACE)
     - 개념의 정리?
-        - 나만의 이해로, 언어로 정리하는지?
+    - 나만의 이해로, 언어로 정리하는지?
 - 프로젝트를 하며 발생한 이슈를 해결했던 것을 작성하는 용도인지?
 - TIL 과 같은 꾸준함을 나타내는 용도인지?
 
@@ -96,6 +96,15 @@
     - [Git 협업 가이드](https://velog.io/@jinuku/Git-%ED%98%91%EC%97%85-%EA%B0%80%EC%9D%B4%EB%93%9C)
     - [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
     - [cheese10yun/github-project-management](https://github.com/cheese10yun/github-project-management)
+
+<br/>
+
+### **온라인 튜토리얼**
+
+- [baeldung (Java, Kotlin, CS, Spring)](https://www.baeldung.com/) 
+- [모던 javascript 튜토리얼 (Javascript)](https://ko.javascript.info/) 
+- [오딘 프로젝트 (Foundations, ROR, Javascript)](https://www.theodinproject.com/paths) 
+- [튜토리얼 포인트 (Devops, CS, Data analytics, language..)](https://www.tutorialspoint.com/java_technology_tutorials.htm)
 
 <br/>
 
