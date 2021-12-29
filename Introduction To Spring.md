@@ -34,7 +34,7 @@
 
 <br/>
 
-### 좀 더 공부하면 좋을 것들
+### 이후에 학습해야 할 것들
 
 - DDD (도메인 주도 설계) : 도메인 주도 설계 철저 입문, 도메인 주도 설계 핵심, 도메인 주도 설계, 도메인 주도 설계 구현 등
 - Message broker or Message Queue : ActiveMQ, RabbitMQ, Kafka, Amazon SQS 등
@@ -45,7 +45,7 @@
 - Front : React, Svelt, Vue 등
 - CI / CD : Jenkins, Gitlab-Ci, Github Action, Argocd 등
 - Container Orchestration : Kubernetes 등
-- Test : Ngrinder, K6, Artillery, Jmeter 등
+- Test : Unit test, Integration test, mock test, TDD, ATDD, Test tools (Ngrinder, K6, Artillery, Jmeter 사용법 등)
 - Etc : Kotlin, Go 등
        
 <br/>
