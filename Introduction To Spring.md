@@ -78,6 +78,13 @@
 
 <br/>
 
+### https://github.com/Lob-dev/Sample-Spring-Cloud-Api-Gateway
+
+- Spring WebFlux, Cloud Gateway, Data Redis reactive, Actuator, prometheus metrics
+- Java 기반의 구성으로 API Gateway의 Route, Rate Limiter 기능, API Proxy 구현 방법(Flux RouterFunction), WebClient, Mono 기본 사용 방법, Fast API 기반 Mock API 등이 구현되어 있습니다.
+
+<br/>
+
 ## 참고
 
 [공공데이터 포털](https://www.data.go.kr/)
