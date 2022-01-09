@@ -24,6 +24,8 @@ Java, Spring 위주의 Back-end 신입 개발자를 위한 저장소입니다. �
 
 2021-12-30 00:05 : Introduction to Spring 내용을 이미지로 시각화하는 작업 및 기타 내용 수정
 
+2022-01-09 19:30 : Common 항목 삭제 및 링크 노출 형태 변경,  
+
 ---
 
 *내용 추가, 정정 요청은 오픈 프로필, 채팅 방에서 바보 개발자 Lob에게 혹은 해당 Repo에 이슈로 남겨주시길 바랍니다.*
@@ -31,24 +33,32 @@ Java, Spring 위주의 Back-end 신입 개발자를 위한 저장소입니다. �
 <br/>
 
 > Optional은 필수는 아니지만, 정말 좋은 (활용 ~ 심화 수준의) 서적을 나타내는 요소입니다. 상황에 따라 학습하지 못하실 수 있지만, 추후에는 한번 즈음은 빌려서라도 보시는 것을 추천 드립니다.
-
-<br/>
-
----
-
-<br/>
-
+> 
 > Readme가 많이 길어지는 것 같기에 하위 파일들로 분리하였습니다.
 
 <br/>
+<br/>
 
-### [Common 참고 영상 정리](Common.md)
-### [Java 서적, 인강, 참고 영상 정리](Java.md)
-### [OOP 서적, 인강 참고 영상 정리](OOP.md)
-### [Spring 서적, 인강 참고 영상 정리](Spring.md)
-### [DBMS SQL 서적, 인강 참고 영상 정리](DBMS%20SQL.md)
-### [Architecture Clean code 서적, 인강 참고 영상 정리 중](Architecture%20Clean%20code.md)
-### [Spring 입문까지 학습 코스 추천](Introduction%20To%20Spring.md)
-### [취업 면접 질문, Github, 영상 정리](Job%20interview.md)
-### [개발자 취업 준비생이 보면 좋을 링크](Good_references.md)
-### [자주 질문하는 것들에 대한 개인적인 답변](etc.md)
+
+## Index
+
+<br/>
+
+### 학습 방식
+- [프로그래밍 입문부터 스프링 기반 포트폴리오 제작](Introduction%20To%20Spring.md)
+
+<br/>
+
+### 개념별 링크
+- [자바 서적 및 영상](Java.md)
+- [객체지향 서적 및 영상](OOP.md)
+- [스프링 서적 및 영상](Spring.md)
+- [DBMS, NoSQL 서적 및 영상](DBMS%20SQL.md)
+- [Architecture, Clean code 서적 및 영상](Architecture%20Clean%20code.md)
+
+<br/>
+
+### 기타 링크
+- [기술 면접 정리](Job%20interview.md)
+- [개발자 취업 준비생이 보면 좋을 링크들](Good_references.md)
+- [자주 질문하는 것들에 대한 지극히 개인적인 답변](etc.md)
