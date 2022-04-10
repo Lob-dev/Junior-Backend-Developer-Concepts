@@ -55,33 +55,8 @@
 <br/>
 
 ## Sample Projects 
-프로젝트 중 도입을 위해 학습하실 때 참고하실 수 있도록 만들어본 Project들 입니다. (저도 학습해서 정리하고 있습니다.)
-### https://github.com/Lob-dev/Sample-Cache
-
-- Spring Data Redis, Cachemanager, Annotations..
-- 학습 및 Sample 용으로 만들었기 때문에 도입할 필요 없는 리소스에 캐싱을 설정하였습니다.
-
-<br/>
-
-### https://github.com/Lob-dev/Sample-Auth
-
-- Spring Security, Oauth2, JWT(Sessionless), ExceptionAdvice, logging
-- 현재 유지 단계인 Security Oauth2 JWT 라이브러리를 사용하였습니다.
-- 새로 개발된 모듈의 레퍼런스가 충분해진다면 마이그레이션을 진행할 예정입니다.
-
-<br/>
-
-### https://github.com/Lob-dev/Sample-prometheus
-
-- Spring Web, Actuator, RabbitMQ, Prometheus, grafana
-- 각 Application의 metric 정보를 수집하여 모니터링할 수 있도록 구현되어 있습니다.
-
-<br/>
-
-### https://github.com/Lob-dev/Sample-Spring-Cloud-Api-Gateway
-
-- Spring WebFlux, Cloud Gateway, Data Redis reactive, Actuator, prometheus metrics
-- Java 기반의 구성으로 API Gateway의 Route, Rate Limiter 기능, API Proxy 구현 방법(Flux RouterFunction), WebClient, Mono 기본 사용 방법, Fast API 기반 Mock API 등이 구현되어 있습니다.
+제 개인적으로 PoC 또는 학습 용도로 만들고 있는 Project Repo 입니다.
+### https://github.com/Lob-dev/The-Joy-Of-Java
 
 <br/>
 
