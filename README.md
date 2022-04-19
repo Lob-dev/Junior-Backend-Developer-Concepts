@@ -53,7 +53,7 @@ Java, Spring 위주의 Back-end 신입 개발자를 위한 저장소입니다. �
 - [자바 서적 및 영상](Java.md)
 - [객체지향 서적 및 영상](OOP.md)
 - [스프링 서적 및 영상](Spring.md)
-- [DBMS, NoSQL 서적 및 영상](DBMS%20SQL.md)
+- [DBMS, NoSQL 서적 및 영상](RDBMS%20SQL%20NoSQL.md)
 - [Architecture, Clean code 서적 및 영상](Architecture%20Clean%20code.md)
 
 <br/>
