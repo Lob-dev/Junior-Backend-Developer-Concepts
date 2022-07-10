@@ -216,6 +216,15 @@
 - NoSQL과 RDBMS의 차이는 무엇이 있을까요?
 - (RDBMS와 비교 했을 때) NoSQL가 가지는 장점은 무엇이 있을까요?
 - NoSQL에서 지원하는 Transcation의 BASE에 대해서 아시나요?
+- MongoDB의 Compound-key Index란 무엇인가요?
+- MongoDB의 Compound-key Index 선언 시 효율을 높이기 위해서 포함하는 필드 순서를 어떻게 정의하면 좋을까요?
+- Write Conflict 발생 시 MongoDB는 어떻게 이를 해결하려고 시도할까요?
+- readConcern Option은 어떠한 이점을 제공할까요? (read staleness)
+- readConcern Option의 linerizable과 majority 속성은 어떤 차이가 있나요?
+- writeConcern Option은 어떠한 이점을 제공할까요?
+- replicaset을 구성할 때 buildIndexes false로 설정하는 경우는 어떤 것을 위해서 사용하는 것인가요?
+- MongoDB Cluster의 구성 요소로는 무엇이 있나요?
+- Journaling은 무엇이고, MongoDB의 Journal은 어떠한 방식으로 구현되어 있나요?
 
 ---
 
