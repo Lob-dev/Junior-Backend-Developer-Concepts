@@ -150,24 +150,36 @@
 
 <br/>
 
-## Web
+## Network, Web
 
-- HTTP 멱등성에 대해 설명해주세요.
-- get은 무엇이고 어느 상황에 주로 사용하나요?
-- put과 patch는 무엇이고 각각 언제 사용되나요?
-- Cookie와 Session 방식은 어떠한 차이점을 가지나요?
-- JSON이란 무엇인가요?
-- Local, Global, Distributed Session에 대해서 아는 만큼 설명해주세요.
-- JWT란 무엇인가요? 왜 사용하게 되는 것인가요?
-- 구현된 HTTP API는 어떠한 요소들을 만족해야 RESTful한 API 라고 부를 수 있나요?
-- User라는 리소스가 하위로 item이라는 리소스를 가지고 있습니다. 이를 조회해야할 때 RESTful하게 URL을 설계한다면 어떤 형태의 URL에 GET을 요청하게 되나요?
+- TCP와 UDP의 차이는 무엇인가요?
+- 어느 서비스에서 UDP 기반의 프로토콜을 사용하는 것이 좋을까요?
 - 3 Way Handshake와 4 Way Handshake는 무엇인가요?
 - 3 Way Handshake는 왜 3번 요청을 주고 받는 것인가요?
-- TCP/IP와 UDP의 차이는 무엇인가요?
+- TCP Flow Control은 무엇을 해결하기 위한 기능의 집합인가요?
+- Sliding Window 라는 개념에 대해서 알고 계시나요?
+- TCP Congestion Control은 무엇을 해결하기 위한 기능의 집합인가요?
+- Buffer와 Stream 방식은 각각 무엇인가요? 실시간으로 처리할 필요가 없는 대량의 데이터에 대해서 어떤 방식을 사용하는 것이 효율적일까요?
+- HTTP 멱등성에 대해 설명해주세요.
+- HTTP는 무엇인가요?
+- HTTP의 버전별 차이를 알려주세요. (0.9 1.0 1.1 2.0)
+- Time wait Socket은 무엇일까요? 
+- Keep Alive는 무엇일까요?
+- SYN Flooding 공격에 대해서 아시나요?
+- Polling, Long Polling, Pulling 기법은 각각 무엇이고 어떠한 Trade Off를 가지고 있나요?
+- Server Sent Events와 Web Socket 기법은 무엇이고 어떠한 장, 단점을 가지고 있나요?
 - HTTPS는 무엇인가요?
-- Servlet은 무엇이고 CGI와 어떠한 차이점을 가지나요?
+- 구현된 HTTP API는 어떠한 요소들을 만족해야 RESTful한 API 라고 부를 수 있나요?
+- get은 무엇이고 어느 상황에 주로 사용하나요?
+- put과 patch는 무엇이고 각각 언제 사용되나요?
+- User라는 리소스가 하위로 item이라는 리소스를 가지고 있습니다. 이를 조회해야할 때 RESTful하게 URL을 설계한다면 어떤 형태의 URL에 GET을 요청하게 되나요?
+- 통신시 사용되는 대표적인 Format으로는 무엇이 있나요?
+- JSON은 무엇인가요?
+- Cookie와 Session 방식은 어떠한 차이점을 가지나요?
+- Local, Global, Distributed Session에 대해서 아는 만큼 설명해주세요.
+- JWT란 무엇인가요? 왜 사용하게 되는 것인가요?
+- Servlet Spec은 무엇이고 CGI와 어떠한 차이점을 가지고 있나요?
 - WAS는 무엇인가요?
-- Buffer와 Stream 방식은 각각 무엇인가요? 실시간으로 처리할 필요가 없는 데이터에 대해서 어떤 방식을 사용하는 것이 효율적일까요?
 - gRPC에 대해서 아시나요?
 - (HTTP API(RESTful)와 비교했을 때)gRPC API는 어떤 이점을 제공하나요?
 
@@ -209,9 +221,13 @@
 - 데이터베이스 파티셔닝은 무엇인가요?
 - 데이터베이스 샤딩은 무엇이고 어떤 종류가 있는지 아시는데로 말씀해주세요.
 - 레인지, 모듈러 샤딩 방식은 무엇이고 어느 장, 단점이 존재하나요?
-- 인덱스 샤딩 방식에 대해서 아시나요?
+- 모듈러 샤딩 방식을 확장해야할 때 사용할 수 있는 방법에는 무엇이 있고, 어떤 Trade Off들이 있나요?
+- 인덱스(Index Server) 샤딩 방식에 대해서 아시나요?
 - 2-Phase Commit이 무엇인지 아시나요?
-- 공유락, 베타락, X락에 대해서 아시나요?
+- S lock, IS lock, X lock, IX lock에 대해서 아시나요?
+- Optimistic Lock에 대해서 아시나요?
+- InnoDB의 Consistent Non-Locking Read 기능이 무엇인지 아시나요?
+- Gap, Record, Next Key Lock에 대해서 아시나요?
 - 많은 사용자들에게 News feed를 제공하는 서비스가 있고, 주간 인기 Feed를 보여주는 것과 일간 Feed를 보여주는 페이지가 있다고 가정할 많은 량의 읽기 트래픽이 존재한다면 어떻게 대처할 수 있을지 말씀해보세요. (주간 인기 Feed에 대한 대처와 일간 Feed에 대한 대처)
 - NoSQL과 RDBMS의 차이는 무엇이 있을까요?
 - (RDBMS와 비교 했을 때) NoSQL가 가지는 장점은 무엇이 있을까요?
