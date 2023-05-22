@@ -1,8 +1,3 @@
-
-# 개인적으로 추천하는 백엔드 입문 학습 흐름
-
-<br/>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67903919/147674116-80149e7b-75ce-4c1f-8c96-e6addb0eed08.png">
 </p>
@@ -27,14 +22,14 @@
 
 <br/>
 
-### Spring Security 학습 추천 방식
+### **Spring Security 학습 추천 방식**
 - Spring에서 제공하는 인증 및 인가를 담당하는 모듈입니다. 직접 인증 및 인가 기능을 구현하는 것보다는 이미 구현된 모듈을 통해 여러 기능을 제공하고 취약한 부분을 보완하는 것이 더 경제적이기 때문에 Spring Security는 많이 사용됩니다.
 - 이론 학습 위주의 경우 : Java의 Thread Local, Proxy, HttpSession, Cookie, WAS의 JSESSIONID, Servlet의 Filter, Chaining 그리고 인증과 인가의 개념을 학습하신 뒤 보는 것을 추천합니다. (이 개념들을 기반으로 많은 기능들이 구현되어 있습니다.)
 - 프로젝트 기반 학습의 경우 : 이 경우에는 HttpSession과 AOP를 이용하여 인증 및 인가 처리를 구현해보신 다음 Security로 고도화하는 경험을 해보는 것도 좋다고 생각합니다.
 
 <br/>
 
-### 이후에 학습해야 할 것들
+### **이후에 학습해야 할 것들**
 
 - DDD (도메인 주도 설계) : 도메인 주도 설계 철저 입문, 도메인 주도 설계 핵심, 도메인 주도 설계, 도메인 주도 설계 구현 등
 - Message broker or Message Queue : ActiveMQ, RabbitMQ, Kafka, Amazon SQS 등
@@ -54,7 +49,7 @@
 
 <br/>
 
-## Sample Projects 
+## **Sample Projects**
 제 개인적으로 PoC 또는 학습 용도로 만들고 있는 Project Repo 입니다.
 ### https://github.com/Lob-dev/The-Joy-Of-Java
 
@@ -62,10 +57,10 @@
 
 ## 참고
 
-[공공데이터 포털](https://www.data.go.kr/)
+### **[공공데이터 포털](https://www.data.go.kr/)**
 
-[public apis - 영어](https://github.com/public-apis/public-apis)
+### **[public apis - 영어](https://github.com/public-apis/public-apis)**
 
-[API란? 개념 정리와 포트폴리오에 유용한 대박 사이트 공유 🙌 Youtube](https://www.youtube.com/watch?v=ogT267HvNuQ&t=337s&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC)
+### **[API란? 개념 정리와 포트폴리오에 유용한 대박 사이트 공유 🙌 Youtube](https://www.youtube.com/watch?v=ogT267HvNuQ&t=337s&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC)**
 
 ---
