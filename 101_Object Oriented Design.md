@@ -7,7 +7,7 @@
 
 <br/>
 
-### **객체 지향의 사실과 오해 (Optional)**
+### **객체 지향의 사실과 오해 (Optional, Recommend)**
 
 - 기존 자바, 기타 서적에서 이론적으로 설명하는 객체 지향을 소설 이상한 나라의 앨리스를 이용하여 풀어 설명하는 책입니다. 별도의 코드 없이도 객체 지향 개념을 바로잡고 깊게 이해할 수 있도록 하기에 추천합니다.
 
@@ -27,7 +27,15 @@
 
 ### **오브젝트 (Optional)**
 
-- 객체 지향의 사실과 오해를 저술하신 저자님의 서적입니다. 예제 코드와 ERD를 통해 개념을 설명하고 비교, 개선하면서 더 나은 객체 지향 설계를 보여줍니다. 난이도가 있다고 생각됩니다.
+- 객체 지향의 사실과 오해를 저술하신 저자님의 서적입니다. 예제 코드와 ERD를 통해 개념을 설명하고 비교, 개선하면서 더 나은 객체 지향 설계를 보여줍니다. 이해하기에는 난이도가 있다고 생각됩니다.
+
+<br/>
+
+### **디자인 패턴의 아름다움 (Optional, Recommend)**
+
+-  2023년 05월 26일에 출간된 서적으로 구글러 출신의 저자가 객체지향 패러다임, Solid, 도메인 모델, 커플링과 디커플링 Kiss, Yagni 등의 기법, 테스트, 코딩 규칙, 디자인 패턴까지 정말 넓은 범위의 내용을 다루고 있는 서적입니다. 
+- 개인적으로 (이전에 보았었던 서적들과 비교하여) 제일 잘 읽히고, 번역 수준이 높은 편이고, 납득 가능하고 재미있는 양질의 예시들을 가진 책이라고 생각합니다.
+- 개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴, 실전 코드로 배우는 실용 주의 디자인 패턴, 클린 소프트웨어 등의 서적 대신에 해당 서적만 봐도 무방할 것 같습니다.
 
 <br/>
 
@@ -60,3 +68,9 @@
 ### **[함수형 프로그래밍 Youtube](https://www.youtube.com/watch?v=XoH9jzblxKQ)**
 
 ### **[OOP는 허접한 개발자 때문에 발전했다? Youtube](https://www.youtube.com/watch?v=oHaGgLRZy3Y&t=5s)**
+
+### **[DRY (Don't Repeat Yourself)](https://deviq.com/principles/dont-repeat-yourself)**
+
+### **[YAGNI (You aren’t gonna need it)](https://deviq.com/principles/yagni)**
+
+### **[KISS (Keep It Simple Stupid)](https://deviq.com/principles/keep-it-simple)**
