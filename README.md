@@ -14,7 +14,7 @@ Java & Kotlin Spring Backend 신입 개발자를 위한 저장소입니다.
 ### 학습 자료 정리
 - [자바 서적 및 영상](101_Java.md)
 - [코틀린 서적 및 영상](101_Kotlin.md)
-- [객체지향 서적 및 영상](101_OOP.md)
+- [객체지향 서적 및 영상](101_Object%20Oriented%20Design.md)
 - [DBMS, NoSQL 서적 및 영상](201_RDBMS%20SQL%20NoSQL.md)
 - [스프링 서적 및 영상](201_Spring.md)
 - [Architecture, Clean code 서적 및 영상](301_Architecture%20Clean%20code.md)
