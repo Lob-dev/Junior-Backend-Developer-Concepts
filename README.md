@@ -18,6 +18,7 @@ Java & Kotlin Spring Backend 신입 개발자를 위한 저장소입니다.
 - [DBMS, NoSQL 서적 및 영상](201_RDBMS%20SQL%20NoSQL.md)
 - [스프링 서적 및 영상](201_Spring.md)
 - [Architecture, Clean code 서적 및 영상](301_Architecture%20Clean%20code.md)
+- [마이크로서비스 아키텍처 서적 및 영샹](301_Microservice%20Architecture.md)
 - [자주 질문하는 것들에 대한 지극히 개인적인 답변](50_etc.md)
 - [개발자 취업 준비생이 보면 좋을 링크들](50_Good%20References.md)
 - [기술 면접 정리](50_Job%20interview.md)
