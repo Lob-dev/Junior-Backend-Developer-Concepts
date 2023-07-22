@@ -79,10 +79,14 @@
 - https://www.udemy.com/course/best-system-design-interview/
 - 전직 Amazon 채용 담당자 출신의 강사가 기술 인터뷰에 대한 전체적인 개념을 (생각보단 얕게..) 설명해주고 모의 면접 사례 또한 다뤄주는 강의입니다. 가벼운 마음으로 보기에 괜찮은 것 같습니다.
 
+<br/>
+
 ### **【한글자막】 소프트웨어 아키텍처 및 시스템 설계 실제 사례 연구 (Optional)**
 
 - https://www.udemy.com/course/software-architecture-system-design-practical-case-studies-korean/
 - 공유 소셜 미디어 플랫폼, 스트리밍, 메시지 서비스, 검색 엔진, 승차 공유 서비스 라는 유명 회사의 유사 서비스들의 요구사항 분석, 프로세스 설계, 잘 알려진 기법의 응용과 설계 결과물까지 꼭 면접이 아니더라도 신규 서비스를 설계하는데 많은 도움이 된다고 생각되는 강의입니다.
+
+<br/>
 
 ### **백명석님의 클린 코더스 강의**
 
